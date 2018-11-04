@@ -1,0 +1,1 @@
+{"rustc":8427573639476503995,"features":"[]","target":14206722667579002638,"profile":7990393541957723157,"path":4193045978427249484,"deps":[["phf v0.7.23","phf",4145263243221752798],["string_cache v0.7.3","string_cache",14746547067367529826],["tendril v0.4.0","tendril",12664497561267140640]],"local":[{"Precalculated":"0.7.3"}],"rustflags":[],"edition":"Edition2015"}

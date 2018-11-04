@@ -1,0 +1,8 @@
+[package]
+name = "html_text_highlighting"
+version = "0.1.0"
+authors = ["taidgh <taidgh.robinson@maine.edu>"]
+
+[dependencies]
+html5ever = "*"
+

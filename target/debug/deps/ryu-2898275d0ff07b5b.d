@@ -1,0 +1,15 @@
+/home/taidgh/prokectp4/html_text_highlighting/target/debug/deps/libryu-2898275d0ff07b5b.rlib: /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/lib.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/buffer/mod.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/common.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_full_table.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_intrinsics.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/digit_table.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/f2s.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mod.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/exponent.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mantissa.rs
+
+/home/taidgh/prokectp4/html_text_highlighting/target/debug/deps/ryu-2898275d0ff07b5b.d: /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/lib.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/buffer/mod.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/common.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_full_table.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_intrinsics.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/digit_table.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/f2s.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mod.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/exponent.rs /home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mantissa.rs
+
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/lib.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/buffer/mod.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/common.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_full_table.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/d2s_intrinsics.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/digit_table.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/f2s.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mod.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/exponent.rs:
+/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/ryu-0.2.6/src/pretty/mantissa.rs:

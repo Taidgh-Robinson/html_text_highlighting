@@ -1,0 +1,1 @@
+{"rustc":8427573639476503995,"features":"[]","target":3452944402519380676,"profile":7990393541957723157,"path":13373664727015670300,"deps":[["mac v0.1.1","mac",18406167064772186066],["new_debug_unreachable v1.0.1","debug_unreachable",9229545685605553801]],"local":[{"Precalculated":"0.1.4"}],"rustflags":[],"edition":"Edition2015"}

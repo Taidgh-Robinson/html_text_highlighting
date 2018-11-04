@@ -1,0 +1,5 @@
+A Rust program that takes a user inputed keyword, parses an html document, and returns an HTML string with all the text occurrences of that keyword highlighted white with a blue background. 
+
+Done as a part of UMAINE COS 301
+
+Built version is located in target/debug.

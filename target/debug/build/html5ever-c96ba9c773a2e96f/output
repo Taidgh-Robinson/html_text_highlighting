@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/home/taidgh/.cargo/registry/src/github.com-1ecc6299db9ec823/html5ever-0.22.3/src/tree_builder/rules.rs
